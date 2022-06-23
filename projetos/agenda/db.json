@@ -1,19 +1,18 @@
 {
-    "tarefas": [
-        {
-            "id": 1,
-            "descricao": "Revisar as aulas sobre Bot no Telegram",
-            "dt_previsao": "2022-06-22",
-            "dt_conclusao": null,
-            "observacao": "Lembrar de instalar as dependências"
-        },
-        {
-            "id": 2,
-            "descricao": "Revisar as aulas sobre Bot no Telegram2",
-            "dt_previsao": "2022-06-23",
-            "dt_conclusao": null,
-            "observacao": "Lembrar de instalar as dependências"
-        }
-        
-    ]
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Revisar as aulas sobre Bot no Telegram",
+      "dt_previsao": "2022-06-22",
+      "dt_conclusao": null,
+      "observacao": "Lembrar de instalar as dependências"
+    },
+    {
+      "id": 2,
+      "descricao": "Revisar as aulas sobre Bot no Telegram2",
+      "dt_previsao": "2022-06-23",
+      "dt_conclusao": null,
+      "observacao": "Lembrar de instalar as dependências"
+    }
+  ]
 }
